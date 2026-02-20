@@ -196,6 +196,8 @@ align-items: center;
     width: 400px;
     margin: 50px auto 50px auto;
     outline: 1px solid #ccc;
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(5px);
 }
 
 form {
@@ -203,7 +205,6 @@ form {
     flex-direction: column;
     width: 300px;
     margin: 50px auto 50px auto;
-
 }
 
 form button {
