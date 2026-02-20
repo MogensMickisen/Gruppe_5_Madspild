@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="Img test background test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OpretEvent.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/OpretEvent.html" afterDir="false" />
+    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="Oprettet events">
       <change beforePath="$PROJECT_DIR$/src/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771589710167</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Oprettet events">
+      <option name="closed" value="true" />
+      <created>1771591976126</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1771591976126</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -215,6 +221,7 @@
     <MESSAGE value="Img" />
     <MESSAGE value="Img test event" />
     <MESSAGE value="Img test background test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Img test background test" />
+    <MESSAGE value="Oprettet events" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oprettet events" />
   </component>
 </project>
