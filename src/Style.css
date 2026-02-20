@@ -1,3 +1,5 @@
+/* ------------------- All -> Nav Bar ------------------- */
+
 header nav ul {
     list-style-type: none;
     margin: 0;
@@ -37,6 +39,8 @@ ul li a:hover {
 .box p{
     margin: 10px;
 }
+
+/* ------------------- All -> Nav Bar - END ------------------- */
 
 /* ------------------- Info.html -> Cirkel Diagram / Tekst ------------------- */
 
@@ -184,3 +188,19 @@ align-items: center;
 /* Cdiagram3 */
 
 /* ------------------- Info.html -> Cirkel Diagram / Tekst - END------------------- */
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: 50px auto 50px auto;
+    outline: 1px solid #ccc;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 50px auto 50px auto;
+
+}
