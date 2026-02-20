@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Event Opretning</title>
+    <title>Events</title>
     <link rel="stylesheet" href="style.css">
     <style>
         body {
@@ -26,36 +26,105 @@
     </ul>
   </nav>
 </header>
-
-<div class="form-container">
-    <form>
-      <label for="overskrift" >Giv dit event en overskrift</label> <br>
-      <input type="text" id="overskrift" placeholder="Event Navn">
-      <br>
-      <label for="beskriv">Bekriv dit event</label> <br>
-      <textarea id="beskriv" rows="5" cols="50" placeholder="Dette event er tiltænkt... Dette event har fokus på... Dette event skal hjælpe med..."></textarea>
-      <br>
-      <label for="antiør">Dit navn eller navn på antiøren</label> <br>
-      <input type="text" id="antiør" placeholder="Event Antiør"> <br>
-      <label>Antiørs email</label> <br>
-      <input type="text" placeholder="test@email.dk">
-      <br>
-      <br>
-      <div>
-        <input type="checkbox" id="tilmeld">
-        <label for="tilmeld">Event kræver tilmelding</label>
-      </div>
-      <br>
-      <div>
-        <input type="checkbox" id="email">
-        <label for="email">Modtag email ved ny tilmelding</label>
-      </div>
-      <br>
-      <br>
-      <input type="submit" value="Opret Event">
-    </form>
+<div id="opretEvent">
+  <div class="form-container">
+      <form>
+        <h1>Opret Event</h1>
+        <label for="overskrift" >Giv dit event en overskrift</label> <br>
+        <input type="text" id="overskrift" placeholder="Event Navn">
+        <br>
+        <label for="beskriv">Bekriv dit event</label> <br>
+        <textarea id="beskriv" rows="5" cols="50" placeholder="Dette event er tiltænkt... Dette event har fokus på... Dette event skal hjælpe med..."></textarea>
+        <br>
+        <label for="antiør">Dit navn eller navn på antiøren</label> <br>
+        <input type="text" id="antiør" placeholder="Event Antiør"> <br>
+        <label>Antiørs email</label> <br>
+        <input type="text" placeholder="test@email.dk">
+        <br>
+        <br>
+        <div>
+          <input type="checkbox" id="tilmeld">
+          <label for="tilmeld">Event kræver tilmelding</label>
+        </div>
+        <br>
+        <div>
+          <input type="checkbox" id="email">
+          <label for="email">Modtag email ved ny tilmelding</label>
+        </div>
+        <br>
+        <br>
+        <input type="submit" value="Opret Event">
+      </form>
+  </div>
 </div>
 
+<div class="grid">
+  <div class="event">
+    <div class="eventText">
+      <h2>Fra Tørt Brød til Nye Retter</h2>
+      <p>Dette event er tiltænkt dem, der vil lære at bruge brødrester i nye opskrifter. Eventet har fokus på praktiske opskrifter og inspiration til mindre madspild.</p>
+      <p>Peter Larsen</p>
+      <p>peter.larsen@email.dk</p>
+    </div>
+  </div>
+  <div class="event">
+    <div class="eventText">
+    <h2>Madspild? Ikke i mit køkken!</h2>
+    <p>Er du også træt af at smide god mad ud? Dette event er for dig, der vil tage kampen op mod madspild én køleskabshylde ad gangen. Vi arbejder praktisk med planlægning, smartere opbevaring og konkrete hverdagsløsninger, der faktisk virker – også når hverdagen er travl.</p>
+    <p>Louise Andersen</p>
+    <p>louise.andersen@email.dk</p>
+    </div>
+  </div>
+  <div class="event">
+    <div class="eventText">
+      <h2>Restefest – Gør rester geniale</h2>
+      <p>En hyggelig og uformel aften hvor vi forvandler kedelige rester til nye livretter. Tag dine idéer (og gerne en rest) med!</p>
+      <p>Thomas Mikkelsen</p>
+      <p>thomas.mikkelsen@email.dk</p>
+    </div>
+  </div>
+  <div class="event">
+    <div class="eventText">
+      <h2>Madspild & Klima – Hvad kan vi gøre?</h2>
+      <p>Dette event sætter fokus på sammenhængen mellem madspild, ressourceforbrug og klimaaftryk. Gennem oplæg og dialog undersøger vi, hvor i værdikæden spild opstår, og hvilke konkrete handlinger der har størst effekt i private husholdninger. Arrangementet henvender sig til dig, der ønsker et mere nuanceret og faktabaseret indblik i problematikken – og redskaber til at handle på den.</p>
+      <p>Maria Holm</p>
+      <p>maria.holm@email.dk</p>
+    </div>
+  </div>
+  <div class="event">
+    <div class="eventText">
+      <h2>Brødets Anden Chance</h2>
+      <p>Smider du også det sidste tørre brød ud? Stop 😉 På en time lærer du 5 nemme måder at forvandle brødrester til sprøde snacks og lækre måltider.</p>
+      <p>Kasper Lund</p>
+      <p>kasper.lund@email.dk</p>
+    </div>
+  </div>
+  <div class="event">
+    <div class="eventText">
+      <h2>Fra Skraldespand til Samvittighed</h2>
+      <p>Forestil dig en hverdag, hvor du næsten aldrig smider mad ud. Hvor du åbner køleskabet og ser muligheder i stedet for problemer. Dette event handler ikke om løftede pegefingre – men om små, realistiske ændringer, der kan spare både penge og ressourcer. Vi deler erfaringer, prøver konkrete øvelser og går hjem med en personlig plan for mindre madspild.</p>
+      <p>Emilie Rasmussen</p>
+      <p>emilie.rasmussen@email.dk</p>
+    </div>
+  </div>
+  <div class="event">
+    <div class="eventText">
+      <h2>Bæredygtig Hverdag uden Madspild</h2>
+      <p>Dette event er tiltænkt alle med interesse for bæredygtighed. Eventet har fokus på små ændringer i hverdagen, der kan gøre en stor forskel for miljøet.</p>
+      <p>Sofie Kristensen</p>
+      <p>sofie.kristensen@email.dk</p>
+    </div>
+  </div>
+  <div class="event">
+    <div class="eventText">
+      <h2>Planlæg dit Indkøb – Undgå Spild</h2>
+      <p>Dette event er tiltænkt familier og studerende, der vil spare penge og mindske madspild. Eventet har fokus på madplaner, portionsberegning og holdbarhed.</p>
+      <p>Camilla Hansen</p>
+      <p>camilla.hansen@email.dk</p>
+    </div>
+  </div>
+
+</div>
 
 </body>
 </html>
