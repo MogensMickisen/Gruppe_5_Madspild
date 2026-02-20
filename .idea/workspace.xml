@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment=".gitignore">
-      <change beforePath="$PROJECT_DIR$/src/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Style.css" afterDir="false" />
+    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="ændret infopage min og max">
+      <change afterPath="$PROJECT_DIR$/src/assets/pictures/mjWasInnocent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/pictures/ZeroWaste.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/pictures/ZeroWaste.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/MogensMickisen/Gruppe_5_Madspild.git&quot;,
-    &quot;accountId&quot;: &quot;d8625e9f-9858-48c7-8f94-38703e512d9a&quot;
+    &quot;accountId&quot;: &quot;bdae0b2a-78f2-4f63-9b2c-45080fd80b9d&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -45,19 +47,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Gustav/IdeaProjects/Gruppe_5_Madspild/src/assets/pictures",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gustav\IdeaProjects\Gruppe_5_Madspild\src\assets\pictures" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28539.33" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="" />
@@ -170,63 +188,7 @@
       <option name="project" value="LOCAL" />
       <updated>1771586684222</updated>
     </task>
-    <task id="LOCAL-00014" summary="Img">
-      <option name="closed" value="true" />
-      <created>1771588785884</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1771588785884</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Img test event">
-      <option name="closed" value="true" />
-      <created>1771588993601</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1771588993601</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Img test background test">
-      <option name="closed" value="true" />
-      <created>1771589710167</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1771589710167</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Oprettet events">
-      <option name="closed" value="true" />
-      <created>1771591976126</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1771591976126</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Sample text to index">
-      <option name="closed" value="true" />
-      <created>1771592630654</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1771592630654</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Sample text to index">
-      <option name="closed" value="true" />
-      <created>1771593009203</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1771593009203</updated>
-    </task>
-    <task id="LOCAL-00020" summary=".gitignore">
-      <option name="closed" value="true" />
-      <created>1771593267035</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1771593267035</updated>
-    </task>
-    <option name="localTasksCounter" value="21" />
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -241,12 +203,6 @@
     <MESSAGE value="ændret infopage" />
     <MESSAGE value="ændret infopage tilbage :D" />
     <MESSAGE value="ændret infopage min og max" />
-    <MESSAGE value="Img" />
-    <MESSAGE value="Img test event" />
-    <MESSAGE value="Img test background test" />
-    <MESSAGE value="Oprettet events" />
-    <MESSAGE value="Sample text to index" />
-    <MESSAGE value=".gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="ændret infopage min og max" />
   </component>
 </project>
