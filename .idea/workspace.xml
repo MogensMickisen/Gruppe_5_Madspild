@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="Ændret header" />
+    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="Ændret header igen">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OpretEvent.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/OpretEvent.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,13 +87,39 @@
       <option name="project" value="LOCAL" />
       <updated>1771579862806</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ændret header">
+      <option name="closed" value="true" />
+      <created>1771579911186</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1771579911186</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ændret header">
+      <option name="closed" value="true" />
+      <created>1771579918557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771579918558</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ændret header igen">
+      <option name="closed" value="true" />
+      <created>1771579993556</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771579993556</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="Opret event lavet kun HTML" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Ændret header" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ændret header" />
+    <MESSAGE value="Ændret header igen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ændret header igen" />
   </component>
 </project>
