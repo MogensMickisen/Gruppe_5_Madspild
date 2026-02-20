@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="Oprettet events">
-      <change beforePath="$PROJECT_DIR$/src/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Style.css" afterDir="false" />
-    </list>
+    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="Sample text to index" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771591976126</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Sample text to index">
+      <option name="closed" value="true" />
+      <created>1771592630654</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1771592630654</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -222,6 +227,7 @@
     <MESSAGE value="Img test event" />
     <MESSAGE value="Img test background test" />
     <MESSAGE value="Oprettet events" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oprettet events" />
+    <MESSAGE value="Sample text to index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sample text to index" />
   </component>
 </project>
