@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="ændret infopage min og max">
+    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="Img test event">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Info.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kontakt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OpretEvent.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/OpretEvent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TilmeldEvent.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/TilmeldEvent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TilmeldMadspild.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/TilmeldMadspild.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,6 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="39tCAAUuKkY6qFKkSntRf5Np4nQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -175,7 +175,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771586684222</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Img">
+      <option name="closed" value="true" />
+      <created>1771588785884</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1771588785884</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Img test event">
+      <option name="closed" value="true" />
+      <created>1771588993601</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1771588993601</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,6 +206,8 @@
     <MESSAGE value="ændret infopage" />
     <MESSAGE value="ændret infopage tilbage :D" />
     <MESSAGE value="ændret infopage min og max" />
-    <option name="LAST_COMMIT_MESSAGE" value="ændret infopage min og max" />
+    <MESSAGE value="Img" />
+    <MESSAGE value="Img test event" />
+    <option name="LAST_COMMIT_MESSAGE" value="Img test event" />
   </component>
 </project>
