@@ -43,6 +43,35 @@ ul li a:hover {
 
 /* ------------------- All -> Nav Bar - END ------------------- */
 
+
+/* ------------------- Index ------------------- */
+.hero-section {
+    height: 80vh; /* Fylder 80% af skærmens højde */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.hero-section h1 {
+    font-size: 4rem; /* Gør titlen kæmpe */
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 5px; /* Giver et luftigt, moderne look */
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.5); /* Sikrer den kan læses ovenpå billedet */
+}
+
+.hero-section p {
+    font-size: 1.5rem;
+    font-weight: 300;
+    font-style: italic;
+}
+
+
+
+
 /* ------------------- Info.html -> Cirkel Diagram / Tekst ------------------- */
 
 /*
@@ -215,3 +244,4 @@ form button {
 textarea {
     resize: vertical;
 }
+
