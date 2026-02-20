@@ -65,6 +65,10 @@ width: 275px;
 align-items: center;
 }
 */
+.box {
+background: white;
+}
+
 .Cdiagram1 {
     background:
        radial-gradient(
@@ -81,8 +85,8 @@ align-items: center;
     position: relative;
     width: 99%;
     min-height: 350px;
-    outline: 1px solid #ccc;
 }
+
 .Cdiagram1 h2 {
     position: absolute;
     margin: 15px;
@@ -122,7 +126,6 @@ align-items: center;
     position: relative;
     width: 99%;
     min-height: 350px;
-    outline: 1px solid #ccc;
 }
 .Cdiagram2 h2 {
     position: absolute;
@@ -163,7 +166,6 @@ align-items: center;
     position: relative;
     width: 99%;
     min-height: 350px;
-    outline: 1px solid #ccc;
 }
 .Cdiagram3 h2 {
     position: absolute;
