@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="Sample text to index" />
+    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment=".gitignore">
+      <change beforePath="$PROJECT_DIR$/src/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -208,7 +210,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771592630654</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Sample text to index">
+      <option name="closed" value="true" />
+      <created>1771593009203</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1771593009203</updated>
+    </task>
+    <task id="LOCAL-00020" summary=".gitignore">
+      <option name="closed" value="true" />
+      <created>1771593267035</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1771593267035</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -228,6 +246,7 @@
     <MESSAGE value="Img test background test" />
     <MESSAGE value="Oprettet events" />
     <MESSAGE value="Sample text to index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sample text to index" />
+    <MESSAGE value=".gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore" />
   </component>
 </project>
