@@ -125,6 +125,12 @@ ul li a:hover {
     margin-bottom: 10px;
 }
 
+.content-wrapper article {
+    display: flex;
+    flex-direction: column; /* Stabler alt lodret så intet kan overlappe vandret */
+    gap: 15px;              /* Giver automatisk luft mellem alle afsnit */
+}
+
 /* ------------------- Info.html -> Cirkel Diagram / Tekst ------------------- */
 
 /*
