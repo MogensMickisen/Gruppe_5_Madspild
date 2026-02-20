@@ -23,13 +23,14 @@ ul li a:hover {
 
 .grid{
     display: flex;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
 }
 .box{
     display: flex;
     flex-direction: column;
     border: 1px solid black;
-    width: 500px;
+    min-width: 500px;
+    max-width: 500px;
     margin: 5px;
     align-items: center;
 }
