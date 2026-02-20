@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="ændret infopage tilbage :D">
+    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="ændret infopage min og max">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OpretEvent.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/OpretEvent.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771586361856</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ændret infopage min og max">
+      <option name="closed" value="true" />
+      <created>1771586684222</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1771586684222</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -177,6 +189,7 @@
     <MESSAGE value="header fordelt ud" />
     <MESSAGE value="ændret infopage" />
     <MESSAGE value="ændret infopage tilbage :D" />
-    <option name="LAST_COMMIT_MESSAGE" value="ændret infopage tilbage :D" />
+    <MESSAGE value="ændret infopage min og max" />
+    <option name="LAST_COMMIT_MESSAGE" value="ændret infopage min og max" />
   </component>
 </project>

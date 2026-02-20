@@ -205,3 +205,10 @@ form {
     margin: 50px auto 50px auto;
 
 }
+
+form button {
+    width: 33%;
+}
+textarea {
+    resize: vertical;
+}
