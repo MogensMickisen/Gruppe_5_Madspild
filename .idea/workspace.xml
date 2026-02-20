@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="ændret infopage">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e7340d04-56ee-4e11-ab87-b75d9ef372fd" name="Changes" comment="ændret infopage tilbage :D">
       <change beforePath="$PROJECT_DIR$/src/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771585538101</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ændret infopage tilbage :D">
+      <option name="closed" value="true" />
+      <created>1771586361856</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1771586361856</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -169,6 +176,7 @@
     <MESSAGE value="login" />
     <MESSAGE value="header fordelt ud" />
     <MESSAGE value="ændret infopage" />
-    <option name="LAST_COMMIT_MESSAGE" value="ændret infopage" />
+    <MESSAGE value="ændret infopage tilbage :D" />
+    <option name="LAST_COMMIT_MESSAGE" value="ændret infopage tilbage :D" />
   </component>
 </project>
