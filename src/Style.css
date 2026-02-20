@@ -8,6 +8,9 @@ h1{
 h2{
     color: #2d5a27;
 }
+h3{
+    color: #2d5a27;
+}
 
 /* ------------------- All -> Nav Bar ------------------- */
 
@@ -316,7 +319,23 @@ form button {
 textarea {
     resize: vertical;
 }
+/*Event Page*/
 
+.eventPage {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+    max-width: 1400px;
+    margin: 10px auto;
+    padding: 0 20px;
+}
+.eventsLeft {
+    flex: 1;   /* fylder resten af pladsen */
+}
+.eventsRight {
+    width: 400px;   /* fast bredde */
+    flex-shrink: 0; /* må ikke blive mast */
+}
 .event{
     display: flex;
     flex-direction: column;
@@ -336,9 +355,20 @@ textarea {
 .event:hover{
     outline: 1px solid black;
 }
+.overskrift{
+    margin: auto auto auto 20px;
+    padding: 10px;
+}
 
-#opretEvent{
-    float: right;
 
+/*Event Page END*/
+
+
+.overskriftBoks{
+    margin: 50px auto auto auto;
+    outline: 1px solid #ccc;
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(5px);
+    border-radius: 10px;
 }
 
