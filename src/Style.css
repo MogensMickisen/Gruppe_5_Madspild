@@ -40,7 +40,7 @@ ul li a:hover {
 }
 
 ul li a.active{
-    background-color: #ccc;
+    background-color: #469319;
 }
 
 .grid{
@@ -107,7 +107,7 @@ ul li a.active{
 
 .content-wrapper {
     max-width: 900px; /* Sørger for at teksten ikke bliver for bred og svær at læse */
-    margin: 40px auto; /* Centrerer teksten og giver luft i top/bund */
+    margin: 0px auto; /* Centrerer teksten og giver luft i top/bund */
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.9); /* Gør baggrunden lidt hvid, så den er læsbar over dit baggrundsbillede */
     border-radius: 8px;
@@ -121,7 +121,7 @@ ul li a.active{
     display: block;
     color: #2d5a27;
     border-bottom: 2px solid #2d5a27;
-    margin-top: 30px;
+
 }
 
 .content-wrapper ul {
@@ -135,7 +135,6 @@ ul li a.active{
 .content-wrapper article {
     display: flex;
     flex-direction: column; /* Stabler alt lodret så intet kan overlappe vandret */
-    gap: 15px;              /* Giver automatisk luft mellem alle afsnit */
 }
 
 /* ------------------- Info.html -> Cirkel Diagram / Tekst ------------------- */
