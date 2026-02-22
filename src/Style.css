@@ -12,6 +12,24 @@ h3{
     color: #2d5a27;
 }
 
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.overskrift{
+    margin: auto auto auto 20px;
+    padding: 10px;
+}
+
+.overskriftBoks{
+    margin: 70px auto auto auto;
+    outline: 1px solid #ccc;
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(5px);
+    border-radius: 10px;
+}
+
 button {
     margin: 5px auto;
     display: block;
@@ -22,6 +40,7 @@ button {
     width: 33%;
     padding: 5px;
 }
+
 button:hover {
     background-color: #2d5a27;
 }
@@ -44,19 +63,6 @@ button:hover {
     border: 1px solid #ccc;
     font-size: 14px;
     box-sizing: border-box;
-}
-
-.overskrift{
-    margin: auto auto auto 20px;
-    padding: 10px;
-}
-
-.overskriftBoks{
-    margin: 70px auto auto auto;
-    outline: 1px solid #ccc;
-    background: rgba(255, 255, 255, 0.6);
-    backdrop-filter: blur(5px);
-    border-radius: 10px;
 }
 
 .form-container {
@@ -121,15 +127,6 @@ ul li a:hover {
 
 ul li a.active{
     background-color: #469319;
-}
-
-.grid{
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.box p{
-    margin: 10px;
 }
 
 /* ------------------- All -> Nav Bar - END ------------------- */
@@ -237,6 +234,10 @@ ul li a.active{
     width: 32%;
     min-width: 250px;
     align-items: center;
+}
+
+.box p{
+    margin: 10px;
 }
 
 .Cdiagram1 {
