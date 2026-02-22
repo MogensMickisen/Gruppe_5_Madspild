@@ -63,7 +63,7 @@ button:hover {
     display: flex;
     flex-direction: column;
     width: 400px;
-    margin: 70px auto 50px auto;
+    margin: 70px auto 125px auto;
     outline: 1px solid #ccc;
     background: rgba(255, 255, 255, 0.6);
     backdrop-filter: blur(5px);
@@ -231,6 +231,7 @@ ul li a.active{
     max-width: 600px;
     margin-top: 45px;
     margin-left: 15px;
+    margin-bottom: 100px;
     display: flex;
     flex-direction: column;
     border: 1px solid black;
