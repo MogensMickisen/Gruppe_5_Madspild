@@ -348,9 +348,6 @@ form {
     margin: 10px auto 50px auto;
 }
 
-form button {
-    width: 33%;
-}
 textarea {
     resize: vertical;
 }
@@ -412,6 +409,11 @@ button {
     border: 1px solid black;
     border-radius: 10px;
     align-items: center;
+    width: 33%;
+    padding: 5px;
+}
+button:hover {
+    background-color: #2d5a27;
 }
 
 .form-container input{
