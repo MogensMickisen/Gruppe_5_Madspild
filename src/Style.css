@@ -406,8 +406,19 @@ textarea {
 }
 
 button {
-    margin-top: 5px;
+    margin: 5px auto;
+    display: block;
     background-color: #469319;
     border: 1px solid black;
     border-radius: 10px;
+    align-items: center;
+}
+
+.form-container input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.form-container a{
+    text-align: center;
 }
