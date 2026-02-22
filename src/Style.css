@@ -436,17 +436,3 @@ footer {
     text-align: center;
     padding: 20px;
 }
-
-html, body {
-    height: 100%;
-    margin: 0;
-}
-
-body {
-    display: flex;
-    flex-direction: column;
-}
-
-.form-container {
-    flex: 1;
-}
