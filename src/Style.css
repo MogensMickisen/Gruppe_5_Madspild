@@ -170,6 +170,7 @@ width: 300px;
 }
 
 .Cdiagram1 {
+    margin-top: 10px;
     width: 80%;
     aspect-ratio: 1/1;
 
@@ -189,16 +190,21 @@ width: 300px;
     width: 80%;
 }
 
-.Cdiagram1 h2 {
-    position: absolute;
-    margin: 15px;
-}
 .Cdiagram1 figcaption {
-    position: absolute;
+    position: relative;
     bottom: 15px;
     right: 15px;
     font-size: smaller;
     text-align: right;
+
+    margin-top: 85%;
+    background: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-left: 64%;
+    padding-right: 10px;
+    width: 160px;
+
 }
 .Cdiagram1 span:after {
     display: inline-block;
@@ -208,6 +214,7 @@ width: 300px;
     height: 11px;
     border-radius: 3px;
     background: currentColor;
+    box-shadow: rgba(17,12,46,0.5) 1px 1px 0px 1px;
 }
 /* Cdiagram1 */
 
