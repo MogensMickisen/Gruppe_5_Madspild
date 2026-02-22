@@ -182,8 +182,8 @@ width: 300px;
           transparent 61%
        ),
        conic-gradient(
-          #4e79a7 0% 46.6%,
-          #2d5a27 46.6% 100%
+          #4e79a7 0 46.6%,
+          #2d5a27 0 100%
     );
     border-radius: 50%;
     filter: drop-shadow(0 8px 15px rgba(0,0,0, 0.5));
@@ -232,8 +232,8 @@ width: 300px;
           transparent 61%
        ),
        conic-gradient(
-          #4e79a7 0% 72%,
-          #2d5a27 0% 100%
+          #4e79a7 0 72%,
+          #2d5a27 0 100%
     );
     border-radius: 50%;
     filter: drop-shadow(0 8px 15px rgba(0,0,0, 0.5));
@@ -271,34 +271,40 @@ width: 300px;
 
 
 .Cdiagram3 {
+    margin-top: 10px;
+    width: 80%;
+    aspect-ratio: 1/1;
+
     background:
        radial-gradient(
           circle closest-side,
           transparent 60%,
-          white 0
+          transparent 61%
        ),
        conic-gradient(
-          #4e79a7 0,
-          #4e79a7 92.6%,
-          #2d5a27 0,
-          #2d5a27 100%
+          #4e79a7 0 92.6%,
+          #2d5a27 0 100%
     );
-    border-radius: 10px;
+    border-radius: 50%;
+    filter: drop-shadow(0 8px 15px rgba(0,0,0, 0.5));
     position: relative;
-    width: 99%;
-    min-height: 350px;
-}
-.Cdiagram3 h2 {
-    position: absolute;
-    margin: 15px;
+    width: 80%;
 }
 
 .Cdiagram3 figcaption {
-    position: absolute;
+    position: relative;
     bottom: 15px;
     right: 15px;
     font-size: smaller;
     text-align: right;
+
+    margin-top: 85%;
+    background: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-left: 40%;
+    padding-right: 10px;
+    width: 250px;
 }
 .Cdiagram3 span:after {
     display: inline-block;
@@ -308,6 +314,7 @@ width: 300px;
     height: 11px;
     border-radius: 3px;
     background: currentColor;
+    box-shadow: rgba(17,12,46,0.5) 1px 1px 0px 1px;
 }
 /* Cdiagram3 */
 
