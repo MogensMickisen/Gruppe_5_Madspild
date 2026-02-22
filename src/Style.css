@@ -422,3 +422,14 @@ button {
 .form-container a{
     text-align: center;
 }
+
+.form-container input[type="text"],
+.form-container input[type="password"],
+.form-container textarea {
+    width: 100%;
+    padding: 6px 8px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    box-sizing: border-box;
+}
