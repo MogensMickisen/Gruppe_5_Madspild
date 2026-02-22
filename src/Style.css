@@ -23,6 +23,11 @@ header nav ul {
     display: flex;
     border-radius: 10px;
     box-shadow: 0 40px 150px rgba(0,0,0,0.1);
+    position: fixed;
+     top: 0;
+     width: 100%;
+     z-index: 1030;
+     box-sizing: border-box;
 
 }
 ul li {
