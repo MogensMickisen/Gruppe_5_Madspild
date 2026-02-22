@@ -164,28 +164,29 @@ width: 300px;
 }
 
 .box {
-    background: white;
-    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 15px;
     box-shadow: 0 40px 150px rgba(0,0,0,0.1);
 }
 
 .Cdiagram1 {
+    width: 80%;
+    aspect-ratio: 1/1;
+
     background:
        radial-gradient(
           circle closest-side,
           transparent 60%,
-          white 0
+          transparent 61%
        ),
        conic-gradient(
-          #4e79a7 0,
-          #4e79a7 46.6%,
-          #2d5a27 0,
-          #2d5a27 100%
+          #4e79a7 0% 46.6%,
+          #2d5a27 46.6% 100%
     );
-    border-radius: 10px;
+    border-radius: 50%;
+    filter: drop-shadow(0 8px 15px rgba(0,0,0, 0.5));
     position: relative;
-    width: 99%;
-    min-height: 350px;
+    width: 80%;
 }
 
 .Cdiagram1 h2 {
