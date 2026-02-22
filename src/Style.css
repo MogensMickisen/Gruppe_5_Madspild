@@ -72,7 +72,7 @@ ul li a.active{
 
 /* ------------------- Index ------------------- */
 .hero-section {
-    height: 80vh; /* Fylder 80% af skærmens højde */
+    height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -82,11 +82,11 @@ ul li a.active{
 }
 
 .hero-section h1 {
-    font-size: 4rem; /* Gør titlen kæmpe */
+    font-size: 4rem;
     margin-bottom: 10px;
     text-transform: uppercase;
-    letter-spacing: 5px; /* Giver et luftigt, moderne look */
-    text-shadow: 2px 2px 10px rgba(0,0,0,0.5); /* Sikrer den kan læses ovenpå billedet */
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.5);
 }
 
 .hero-section p {
@@ -112,18 +112,18 @@ ul li a.active{
 }
 
 .content-wrapper {
-    max-width: 900px; /* Sørger for at teksten ikke bliver for bred og svær at læse */
-    margin: 0px auto; /* Centrerer teksten og giver luft i top/bund */
+    max-width: 900px;
+    margin: 0px auto;
     padding: 20px;
-    background-color: rgba(255, 255, 255, 0.9); /* Gør baggrunden lidt hvid, så den er læsbar over dit baggrundsbillede */
+    background-color: rgba(255, 255, 255, 0.9);
     border-radius: 8px;
-    font-family: Arial, sans-serif; /* Mere moderne end standarden */
-    line-height: 1.6; /* Giver luft mellem linjerne - godt for brugeroplevelsen */
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
 }
 
 .content-wrapper h2 {
     clear: both;
-    width: 100%; /* Tvinger den til at fylde hele linjen */
+    width: 100%;
     display: block;
     color: #2d5a27;
     border-bottom: 2px solid #2d5a27;
@@ -140,26 +140,11 @@ ul li a.active{
 
 .content-wrapper article {
     display: flex;
-    flex-direction: column; /* Stabler alt lodret så intet kan overlappe vandret */
+    flex-direction: column;
 }
 
 /* ------------------- Info.html -> Cirkel Diagram / Tekst ------------------- */
 
-/*
-.Cdiagram-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-top: 50px;
-  margin: 0 auto;
-  outline: 1px solid #ccc;
-  box-shadow: 5px 5px;
-}
-
-.Cdiagram-container p{
-width: 300px;
-}
-*/
 .Cdiagram-container h3{
     display: flex;
     flex-direction: column;
@@ -362,11 +347,11 @@ textarea {
     padding: 0 20px;
 }
 .eventsLeft {
-    flex: 1;   /* fylder resten af pladsen */
+    flex: 1;
 }
 .eventsRight {
-    width: 400px;   /* fast bredde */
-    flex-shrink: 0; /* må ikke blive mast */
+    width: 400px;
+    flex-shrink: 0;
 }
 .event{
     display: flex;
